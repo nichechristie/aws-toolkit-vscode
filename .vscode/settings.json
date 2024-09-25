@@ -1,4 +1,4 @@
-{
+{'hotfix'
     "files.exclude": {
         "**/src/testFixtures": true
     },
@@ -12,5 +12,6 @@
     "typescript.preferences.importModuleSpecifier": "relative",
     "javascript.preferences.importModuleSpecifier": "relative",
     "typescript.tsdk": "node_modules/typescript/lib",
-    "npm.packageManager": "npm"
+    "npm.packageManager": "npm",
+    "aws.telemetry": false
 }
